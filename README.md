@@ -3,7 +3,7 @@
 **Curso / Disciplina:** Licenciatura em Informática, 2º ano, Tecnologias de Base de Dados
 **Tema:** Sistema Web de Registo e Acompanhamento das Condições de Manutenção dos Transportes Semicolectivos (chapas) na Cidade da Beira
 **SGBD:** MySQL
-link de reportagem como fonte de Motivação, e alinhar que o tema escolhido e por conta de serem casos semelhantes. Tanto em Maputo como na beira  acontece e é a razão e o problema prova que existem no chapas. Digo isso porque ando de chapas. emtanto, Vi uma reportagem da TV Sucesso sobre os problemas nos chapas e percebi que é uma realidade que eu também conheço na Beira: " por exemplo assentos rasgados e viaturas sujas" Por isso escolhi a Beira como contexto do meu sistema.” : https://youtu.be/f_f-cJcEQ24?si=_qNbuAtyF6R_G7D7
+link de reportagem como fonte de Motivação, e alinhar que o tema escolhido é por conta de serem casos semelhantes, Tanto em Maputo como na beira  acontece e é a razão e o problema prova que existem no chapas. Digo isso porque ando de chapas. entanto, Vi uma reportagem da TV Sucesso sobre os problemas nos chapas e percebi que é uma realidade que eu também conheço na Beira: " por exemplo assentos rasgados e viaturas sujas" Por isso escolhi a Beira como contexto do meu sistema.” : https://youtu.be/f_f-cJcEQ24?si=_qNbuAtyF6R_G7D7
 ---
 
 ## 1. Descrição do problema
