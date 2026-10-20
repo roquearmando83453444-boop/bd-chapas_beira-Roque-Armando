@@ -3,7 +3,7 @@
 **Curso / Disciplina:** Licenciatura em Informática, 2º ano, Tecnologias de Base de Dados
 **Tema:** Sistema Web de Registo e Acompanhamento das Condições de Manutenção dos Transportes Semicolectivos (chapas) na Cidade da Beira
 **SGBD:** MySQL
-
+link de reportagem como fonte de Motivação: https://youtu.be/f_f-cJcEQ24?si=_qNbuAtyF6R_G7D7
 ---
 
 ## 1. Descrição do problema
